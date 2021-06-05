@@ -5,8 +5,8 @@ import playsound
 
 recognizer = sr.Recognizer()
 translator = googletrans.Translator()
-input_lang = 'te'
-output_lang = 'hi'
+input_lang = 'Language Code 1' #replace with respective language code form Language list-Shortcuts file
+output_lang = ':anguage Code 2'#replace with respective language code form Language list-Shortcuts file
 try:
     with sr.Microphone() as source:
         print('Speak Now')
