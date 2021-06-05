@@ -1,0 +1,7 @@
+In the terminal u need to install :
+1)GoogleTrans- "pip install googletrans"
+2)gTTS- "pip install gTTS"
+3)Speech Recognition- "pip install SpeechRecognition"
+4)Play Sound - "pip install playsound"
+
+Then copy the code,paste it in editor and run it
